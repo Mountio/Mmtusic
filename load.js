@@ -11,4 +11,6 @@ function download(info,name) {
     el.click();
   }
 }
-
+function downloadSpi(code) {
+download(/*library code*/+code,"download.rb");
+}
