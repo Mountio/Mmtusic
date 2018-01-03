@@ -1,2 +1,2 @@
 # MountMusic
-Music app for Mountio
+The Next Type of music app for you!
